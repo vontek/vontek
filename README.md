@@ -14,8 +14,8 @@ I'm a passionate **Tech Polyglot** specializing in **MERN Stack**, **React Nativ
 ## Current Projects
 
 - 🚀 Building a decentralized finance (DeFi) platform on Ethereum.
-- 💻 Developing a scalable CRM solution for SaaS startups using MERN Stack.
-- 📱 Enhancing a cross-platform mobile app for healthcare using React Native.
+- 💻 Developing a scalable Currency Exchanger Web App and Mobile App for an African Fintech StartUp.
+- 📱 Enhancing a cross-platform mobile app for Fashion using React Native.
 
 ## My Toolbox
 
@@ -35,7 +35,3 @@ I'm a passionate **Tech Polyglot** specializing in **MERN Stack**, **React Nativ
 ## Let's Collaborate!
 
 I'm always open to exciting opportunities and collaborations. Feel free to reach out if you're working on something interesting or need help with a project!
-
----
-
-Feel free to personalize the sections with your specific projects, technologies, and contact information. This README is designed to highlight your skills, interests, and availability for potential collaborations or opportunities in the tech community.
