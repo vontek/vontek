@@ -1,25 +1,4 @@
-## Hi there 👋
-
-<!--
-**vontek/vontek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Certainly! Below is a GitHub profile README example tailored to showcase your expertise and interests as a Tech Polyglot, MERN Stack, React Native, and Blockchain Developer, focusing on building innovative solutions and decentralized applications for Tech & SaaS startups:
-
----
-
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Vontek
 
 ## About Me
 
@@ -47,11 +26,11 @@ I'm a passionate **Tech Polyglot** specializing in **MERN Stack**, **React Nativ
 
 ## Let's Connect!
 
-- 🌐 Website: [YourWebsite.com](http://yourwebsite.com)
-- 📫 Email: [youremail@example.com](mailto:youremail@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📷 Instagram: [@yourhandle](https://www.instagram.com/yourhandle)
+- 🌐 Website: www.vontekx.com
+- 📫 Email: vontekx@hotmail.com
+- 🔗 LinkedIn: ###
+- 🐦 Twitter: https://twitter.com/vontekx
+- 📷 Instagram: https://www.instagram.com/vontekx
 
 ## Let's Collaborate!
 
