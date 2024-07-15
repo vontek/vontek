@@ -11,12 +11,6 @@ I'm a passionate **Tech Polyglot** specializing in **MERN Stack**, **React Nativ
 - **Blockchain Development**: Designing and developing decentralized applications (dApps) using blockchain technologies like Ethereum and Solidity.
 - **Tech & SaaS Solutions**: Crafting solutions that drive efficiency and innovation for Tech and SaaS startups, from MVPs to scalable products.
 
-## Current Projects
-
-- 🚀 Building a decentralized finance (DeFi) platform on Ethereum.
-- 💻 Developing a scalable Currency Exchanger Web App and Mobile App for an African Fintech StartUp.
-- 📱 Enhancing a cross-platform mobile app for Fashion using React Native.
-
 ## My Toolbox
 
 - **Languages**: JavaScript/TypeScript, Solidity, Python
@@ -27,7 +21,7 @@ I'm a passionate **Tech Polyglot** specializing in **MERN Stack**, **React Nativ
 ## Let's Connect!
 
 - 🌐 Website: www.vontekx.com
-- 📫 Email: vontekx@hotmail.com
+- 📫 Email: vontekx@gmail.com
 - 🔗 LinkedIn: ###
 - 🐦 Twitter: https://twitter.com/vontekx
 - 📷 Instagram: https://www.instagram.com/vontekx
