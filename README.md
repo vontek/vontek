@@ -80,8 +80,8 @@ I design and build end-to-end systems that merge **software intelligence with ha
 ### 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VontekX&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VontekX&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
 </div>
 
 ---
