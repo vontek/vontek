@@ -1,106 +1,78 @@
-<!-- Profile Header -->
-<div align="center">
-
-  <!-- Banner -->
-  <img src="https://github.com/your-username/your-username/assets/banner-vontek.png" width="100%" alt="VONTEK Banner" />
-
-  <h1>👋 Hi, I'm <span style="color:#4F9EFF;">Segun Kolawole</span></h1>
-  <h3>Founder @ <strong>VONTEK</strong> ⚡ Software • Hardware • AI/ML • Robotics • Embedded • Web3</h3>
-
-  <p align="center">
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-    <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white" /></a>
-    <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  </p>
-
-</div>
-
----
-
-### 🚀 About Me  
-I’m **Segun Kolawole**, a multidisciplinary engineer and founder of **VONTEK** — a creative tech brand engineering the future of **AI, Robotics, Embedded Systems, and Smart Web Platforms**.  
-
-I design and build end-to-end systems that merge **software intelligence with hardware precision**, crafting technologies that think, move, and connect.
-
-- 🔭 **Currently building:** AI-powered robotics and IoT systems under VONTEK Labs  
-- 🧠 **Focus areas:** Embedded AI • Decentralized Systems • Smart Automation • Multi-Tenant Web Platforms  
-- 💬 **Ask me about:** AI/ML • IoT • Robotics • Full-Stack Engineering • Blockchain • Product Architecture  
-- ⚙️ **Core Tools:** Raspberry Pi • ESP32 • TensorFlow • ROS • NestJS • Next.js • Docker • PostgreSQL  
-- 🌍 **Portfolio:** [vontek.dev](#)  
-- 📫 **Reach me:** [your-email@example.com](mailto:your-email@example.com)
-
----
-
-### 🧩 Tech Ecosystem  
-
-#### 🧠 Artificial Intelligence & Data  
-![Python](https://img.shields.io/badge/-Python-0A0A0A?logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-0A0A0A?logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-0A0A0A?logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-0A0A0A?logo=opencv)
-
-#### ⚙️ Embedded Systems & Robotics  
-![C](https://img.shields.io/badge/-C-0A0A0A?logo=c)
-![C++](https://img.shields.io/badge/-C++-0A0A0A?logo=cplusplus)
-![Arduino](https://img.shields.io/badge/-Arduino-0A0A0A?logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-0A0A0A?logo=raspberrypi)
-![ESP32](https://img.shields.io/badge/-ESP32-0A0A0A?logo=espressif)
-![ROS](https://img.shields.io/badge/-ROS-0A0A0A?logo=ros)
-
-#### 🌐 Web, Mobile & Blockchain  
-![React](https://img.shields.io/badge/-React-0A0A0A?logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-0A0A0A?logo=nextdotjs)
-![NestJS](https://img.shields.io/badge/-NestJS-0A0A0A?logo=nestjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0A0A0A?logo=typescript)
-![Solidity](https://img.shields.io/badge/-Solidity-0A0A0A?logo=solidity)
-![React Native](https://img.shields.io/badge/-React%20Native-0A0A0A?logo=react)
-
-#### 🛠️ Tools & DevOps  
-![Docker](https://img.shields.io/badge/-Docker-0A0A0A?logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-0A0A0A?logo=githubactions)
-![Linux](https://img.shields.io/badge/-Linux-0A0A0A?logo=linux)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A0A0A?logo=postgresql)
-![Firebase](https://img.shields.io/badge/-Firebase-0A0A0A?logo=firebase)
-
----
-
-### 📂 Featured Projects  
-
-| 🚀 Project | 🧾 Description | ⚙️ Stack |
-|-------------|----------------|-----------|
-| **Smart Car Tracker** | Real-time GPS & GSM tracker with cloud analytics dashboard | ESP32 • GPS • Node.js • Next.js |
-| **AI Vision Bot** | Vision-guided robot powered by TensorFlow + OpenCV | Raspberry Pi • TensorFlow • ROS |
-| **AI Store Agent** | Conversational AI scanning e-commerce for price anomalies | Python • LangChain • Puppeteer |
-| **Multi-Tenant Web Platform** | Monolithic SaaS architecture for multi-clients | Next.js • NestJS • PostgreSQL |
-| **Blockchain Payment Gateway** | Web3 smart-contract-powered payment integration | Solidity • React • Hardhat |
-
----
-
-### 📊 GitHub Analytics  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VontekX&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VontekX&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
-</div>
-
----
-
-### 🌐 Connect  
+<h1 align="center">👋 Hey there, I'm Kolawole Segun (Vontek)</h1>
+<h3 align="center">Senior Full-Stack Engineer | AI/ML, IoT & Embedded Systems | Blockchain & Mobile Developer | Hardware-Software Integration Expert</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/vontek">
+    <img src="https://img.shields.io/badge/GitHub-vontek-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/kolawole-segun-838380248">
+    <img src="https://img.shields.io/badge/LinkedIn-Kolawole%20Segun-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vontekx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vontekx@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-<div align="center">
-  
-  🧩 *“Engineering the bridge between hardware and intelligence.”*  
-  <br>
-  — **VONTEK | Segun Kolawole**
-  
-</div>
+## 💻 About Me
+I am a **Senior Developer with 6 years of experience** crafting **robust, scalable, and secure applications** across web, mobile, AI/ML, blockchain, and IoT domains. I specialize in bridging **hardware and software**, building solutions that are **highly performant and future-proof**.  
+
+- 🔹 Physics graduate | Currently studying Electrical & Electronics Engineering  
+- 🔹 Expert in **AI/ML, NLP, Computer Vision**  
+- 🔹 Embedded systems & IoT specialist (ESP32, Arduino, Raspberry Pi)  
+- 🔹 Blockchain & smart contract developer (Ethereum, Solidity, Rust)  
+- 🔹 Full-stack web & mobile development with **React, Next.js, Node.js, NestJS, Laravel**  
+- 🔹 Passionate about **cutting-edge tech**, automation, and optimization  
+
+---
+
+## ⚡ Tech Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,nestjs,python,solidity,docker,k8s,git,mysql,mongodb,postgres,flutter" alt="Skills"/>
+</p>
+
+**Frontend:** React, Next.js, TypeScript, React Native, Redux, Chakra UI, Tailwind CSS  
+**Backend:** Node.js, NestJS, Express, Laravel, MongoDB, MySQL, PostgreSQL, Redis  
+**Blockchain:** Solidity, Rust, Ethereum, Web3.js, Ethers.js, dApps, DeFi  
+**AI/ML:** Python, TensorFlow, PyTorch, Scikit-Learn, NLP, Computer Vision  
+**Embedded & IoT:** ESP32, Arduino, Raspberry Pi, MQTT, Edge Computing, Sensors  
+
+---
+
+## 📊 Experience Highlights
+- **6+ years** of full-stack, blockchain, AI/ML, and IoT development  
+- Built **high-performance web & mobile apps** with optimized architecture  
+- Designed and deployed **smart contracts and dApps** for secure blockchain solutions  
+- Developed **AI/ML models** for NLP, computer vision, and automation  
+- Integrated **IoT solutions** with sensors, edge computing, and microcontrollers  
+- Mentored junior developers and led projects with **modern DevOps workflows**  
+
+---
+
+## 🚀 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vontek&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vontek&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔥 Fun & Next-Gen Facts
+- 🚀 Always experimenting with **AI, Blockchain & IoT** projects  
+- 💡 Passionate about **hardware-software integration** and automation  
+- 🌐 Continuously exploring **next-gen technologies** to build futuristic applications  
+- 🎯 Strong advocate for **clean architecture, optimization & best practices**  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4doxl2c6xrOxy/giphy.gif" width="350"/>
+</p>
+
+---
+
+## 📬 Contact Me
+- **Email:** [vontekx@gmail.com](mailto:vontekx@gmail.com)  
+- **GitHub:** [github.com/vontek](https://github.com/vontek)  
+- **LinkedIn:** [linkedin.com/in/kolawole-segun-838380248](https://linkedin.com/in/kolawole-segun-838380248)  
+- **Location:** Lagos, Nigeria  
