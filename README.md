@@ -16,14 +16,14 @@
 ---
 
 ## 💼 Professional Summary
-I am a **Senior Multidisciplinary Developer with 6 years of experience** building **robust and scalable solutions** across web, mobile, AI/ML, IoT, and blockchain platforms. I specialize in **hardware-software integration** and delivering **well-architected, maintainable, and performant systems**.  
+I am a **Senior Multidisciplinary Developer with 6 years of experience** building **robust, scalable, and maintainable applications** across web, mobile, AI/ML, IoT, and blockchain platforms. I specialize in **hardware-software integration** and delivering **well-architected, performant systems**.  
 
-- Physics graduate | Studying Electrical & Electronics Engineering  
-- Experienced in **AI/ML (TensorFlow, PyTorch, NLP, Computer Vision)**  
+- Physics graduate | Electrical & Electronics Engineering student  
+- Skilled in **AI/ML, NLP, Computer Vision**  
 - Embedded & IoT systems developer (ESP32, Arduino, Raspberry Pi)  
 - Blockchain & smart contract developer (Ethereum, Solidity, Rust)  
 - Full-stack web & mobile developer: React, Next.js, Node.js, NestJS, Laravel  
-- Focused on **clean architecture, optimization, and best practices**  
+- Focused on **optimization, clean architecture, and best practices**  
 
 ---
 
@@ -41,25 +41,25 @@ I am a **Senior Multidisciplinary Developer with 6 years of experience** buildin
 
 ---
 
-## 🚀 Key Highlights
+## 🚀 Experience & Project Highlights
 - 6+ years delivering **web, mobile, AI/ML, IoT, and blockchain solutions**  
-- Developed **cross-platform mobile apps** with offline support and push notifications  
-- Built **blockchain dApps and smart contracts** for secure decentralized solutions  
-- Implemented **AI-driven applications** in NLP, computer vision, and automation  
+- Built **cross-platform mobile apps** with offline support and push notifications  
+- Developed **smart contracts & dApps** for secure blockchain solutions  
+- Implemented **AI/ML models** for NLP, computer vision, and automation  
 - Designed and deployed **IoT solutions** with sensors, microcontrollers, and edge computing  
-- Experienced in mentoring developers and establishing **DevOps pipelines and best practices**  
+- Mentored developers and established **DevOps pipelines and best practices**  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Including Private Contributions)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vontek&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vontek&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vontek&layout=compact&theme=dark&count_private=true" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🏆 Metrics
+## 🏆 Professional Metrics
 | Metric | Count |
 |--------|-------|
 | Years Experience | 6+ |
@@ -67,7 +67,7 @@ I am a **Senior Multidisciplinary Developer with 6 years of experience** buildin
 | Smart Contracts Deployed | 15+ |
 | Mobile Apps Built | 10+ |
 | AI/ML Models Built | 12+ |
-| IoT & Embedded Projects | 8+ |
+| IoT & Embedded Systems Projects | 8+ |
 
 ---
 
